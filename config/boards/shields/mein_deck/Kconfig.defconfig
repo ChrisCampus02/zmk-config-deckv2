@@ -1,0 +1,6 @@
+if SHIELD_MEIN_DECK
+
+config ZMK_KEYBOARD_NAME
+    default "Streamdeck"
+
+endif
